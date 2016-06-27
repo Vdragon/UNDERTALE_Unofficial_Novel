@@ -1,6 +1,9 @@
 # UNDERTALE Unofficial Novel
 <https://github.com/Vdragon/UNDERTALE_Unofficial_Novel>
 
+## Spoiler Warning
+WARNING: This novel contains spoilers of the UNDERTALE game, **it is advised to play this game before continuing reading the novel**!
+
 ## Game Author
 2015 © Toby Fox
 
