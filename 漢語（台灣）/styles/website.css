@@ -1,3 +1,4 @@
-*.prologue{
-	text-align: center
+#prologue{
+	text-align: center;
+	width:100%;
 }
