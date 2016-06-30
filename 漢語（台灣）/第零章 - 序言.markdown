@@ -1,4 +1,5 @@
 # 第零章 - 序言
+<div id="prologue">
 ![人類和怪物](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Humans%20and%20Monsters.png)  
 很久以前，兩個種族統治著地球：  
 人類和怪物
@@ -28,3 +29,4 @@ EBOTT 山
 ![掉落的孩子](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Fallen%20Kid%28enlarged%203x%29.png)
 
 ![UNDERTALE 遊戲標題畫面](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Title.png)
+</div>
