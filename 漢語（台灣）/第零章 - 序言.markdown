@@ -1,32 +1,57 @@
 # 第零章 - 序言
+
 <div id="prologue">
-![人類和怪物](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Humans%20and%20Monsters.png)  
-很久以前，兩個種族統治著地球：  
-人類和怪物
 
-![戰爭在兩個種族之間爆發](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20War%20Broke%20Out%20between%20Two%20Races.png)  
-有一天，戰爭在兩個種族之間爆發。
+<p>
+	<img alt="人類和怪物" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Humans%20and%20Monsters.png"><br>
+	很久以前，兩個種族統治著地球：<br>
+	人類和怪物
+</p>
 
-![人類取得了勝利](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20the%20Humans%20Were%20Victorious.png)  
-在長久的戰爭後，人類取得了勝利。  
-他們用一個法術將怪物們封印在地底下。
+<p>
+	<img alt="戰爭在兩個種族之間爆發" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20War%20Broke%20Out%20between%20Two%20Races.png"><br>
+	有一天，戰爭在兩個種族之間爆發。
+</p>
 
-多年後……
+<p>
+	<img alt="人類取得了勝利" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20the%20Humans%20Were%20Victorious.png"><br>
+	在長久的戰爭後，人類取得了勝利。<br>
+	他們用一個法術將怪物們封印在地底下。
+</p>
 
-![EBOTT 山](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Mt.%20EBOTT%20201X.png)  
-EBOTT 山  
-201X 年
+<p>
+	多年後……
+</p>
 
-![那個傳說](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Legend.png)  
-傳說中爬上那座山的人將永遠不會歸來。
+<p>
+	<img alt="EBOTT 山" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Mt.%20EBOTT%20201X.png"><br>
+	EBOTT 山<br>
+	201X 年
+</p>
 
-![巨洞](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Giant%20Hole.png)
+<p>
+	<img alt="那個傳說" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Legend.png"><br>
+	傳說中爬上那座山的人將永遠不會歸來。
+</p>
 
-![被藤蔓絆倒](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Tripped%20by%20Vines.png)
+<p>
+	<img alt="巨洞" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Giant%20Hole.png">
+</p>
 
-![掉落](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Fallen.png)
+<p>
+	<img alt="被藤蔓絆倒" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Tripped%20by%20Vines.png">
+</p>
 
-![掉落的孩子](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Fallen%20Kid%28enlarged%203x%29.png)
+<p>
+	<img alt="掉落" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Fallen.png">
+</p>
 
-![UNDERTALE 遊戲標題畫面](../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Title.png)
+<p>
+	<img alt="掉落的孩子" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Prologue%20-%20Fallen%20Kid%28enlarged%203x%29.png">
+</p>
+
+<p>
+	<img alt="UNDERTALE 遊戲標題畫面" src="../Language%20Neutral%20Resources/Pictures/UNDERTALE%20Title.png">
+</p>
+
 </div>
